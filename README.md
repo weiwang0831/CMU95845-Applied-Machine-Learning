@@ -1,5 +1,6 @@
-# CMU95845-Applied-Machine-Learning
-Applied Machine Learning Course focus on Health
+# Movie Recommender
+Applied Machine Learning Course Final Project
+
 Summary
 =======
 
